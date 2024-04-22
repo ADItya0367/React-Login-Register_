@@ -1,4 +1,4 @@
-# <h1 align="center" >React Login Form Using Strapi Backend Setup </h1>
+# <h1 align="center" >React Register & Login Form Using Strapi Backend Setup </h1>
 <p align="center"><strong>🔮 Don't Forget to give a STAR , Your sky won't be Empty :) </strong></p>
 <p align="center">
   <a href="https://github.com/plandex-ai/plandex/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome" /></a> 
